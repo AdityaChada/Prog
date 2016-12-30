@@ -1,5 +1,0 @@
-#include<stdio.h>
-main()
-{
-printf("hello welcome to the world of programming");
-}
